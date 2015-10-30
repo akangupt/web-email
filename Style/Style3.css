@@ -1,0 +1,56 @@
+.message{
+	border: 5px solid #000;
+	width: 500px;
+	margin-left:400px;
+	height:250px;
+}
+.thumbnail 
+{
+float:left;
+width:300px;
+height:500px;
+}
+.delete
+{
+float:right;
+width:350px;
+height:450px;
+}
+.menu{
+	font-family:tahoma;
+	font-size:14;
+	border:1px black;
+	width:10px;
+	float:left;
+}
+#compose{
+        height: 36px;
+	width: 80px;
+margin-left:1040px;
+margin-top:70px;
+background-color:#6960EC;
+}
+#inbox{
+        height: 36px;
+	width: 80px;
+margin-left:1040px;
+background-color:#6960EC;
+}
+#sentmail{
+        height: 36px;
+	width: 80px;
+margin-left:1040px;
+background-color:#6960EC;
+}
+#cha{
+        height: 36px;
+	width: 80px;
+margin-left:1040px;
+background-color:#6960EC;
+}
+#logout{
+        height: 36px;
+	width: 80px;
+margin-left:1040px;
+background-color:red;
+}

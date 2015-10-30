@@ -1,0 +1,92 @@
+.menu{
+	font-family:tahoma;
+	font-size:14;
+	border:1px black;
+	width:10px;
+	float:left;
+}
+#compose{
+        height: 36px;
+	width: 80px;
+margin-left:50px;
+
+background-color:#CD7F32;
+}
+#inbox{
+        height: 36px;
+	width: 80px;
+margin-left:50px;
+background-color:#CD7F32;
+}
+#sentmail{
+        height: 36px;
+	width: 80px;
+margin-left:50px;
+background-color:#CD7F32;
+}
+#cha{
+        height: 36px;
+	width: 80px;
+margin-left:50px;
+background-color:#CD7F32;
+}
+#home{
+        height: 36px;
+	width: 80px;
+margin-top:70px;
+margin-left:50px;
+background-color:#CD7F32;
+}
+#logout{
+        height: 36px;
+	width: 80px;
+margin-left:50px;
+background-color:#C2B280;
+}
+#user{
+ 	height:28px;
+	width: 100px;
+	margin-left:1200px;
+background-color:#667C26;
+}
+.chatBox {
+
+	border: 4px solid #000;
+	width: 500px;
+	margin-left:400px;
+	
+}
+.chatBox .main {
+	background-image:url(main.jpg);
+	height: 300px;
+	padding: 5px;
+	overflow: auto;
+}
+
+/* message box area */
+.chatBox .messageBox {
+	padding: 7px 5px 5px 5px;
+}
+#ChatText{
+	font: 14px arial, sans-serif;
+	width: 400px;
+	height: 32px;
+background-color:white;
+}
+#newMessageSend {
+	height: 36px;
+	width: 80px;
+background-color:#e1f5a9;
+}
+.chatBox .messageBox .left {
+	float: left;
+	width: 410px;
+}
+.onlineusers{
+	font-family:tahoma;
+	font-size:14;
+	border:2px solid #000;
+	width:230px;
+	height:380px;
+	float:right;
+}

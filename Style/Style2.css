@@ -1,0 +1,60 @@
+.menu{
+	font-family:tahoma;
+	font-size:14;
+	border:1px black;
+	width:10px;
+	float:left;
+}
+#compose{
+    height: 36px;
+	width: 80px;
+	margin-left:50px;
+	margin-top:70px;
+	background-color:#00CDCD;
+}
+#inbox{
+    height: 36px;
+	width: 80px;
+	margin-left:50px;
+	background-color:#00CDCD;
+}
+#sentmail{
+    height: 36px;
+	width: 80px;
+	margin-left:50px;
+	background-color:#00CDCD;
+}
+#cha{
+    height: 36px;
+	width: 80px;
+	margin-left:50px;
+	background-color:#00CDCD;
+}
+#logout{
+    height: 36px;
+	width: 80px;
+	margin-left:50px;
+	background-color:red;
+}
+#user{
+ 	height:28px;
+	width: 100px;
+	margin-left:1200px;
+	background-color:FFFF00;
+}
+.onlineusers{
+	font-family:tahoma;
+	font-size:14;
+	color:#00CDCD;
+	border:1px solid #000;
+	width:200px;
+	height:500px;
+	overflow:scroll;
+	float:right;
+}
+.inbox{
+	border: 1px solid #000;
+	width: 850px;
+	height:500px;
+	margin-left:180px;
+}
